@@ -7,7 +7,7 @@ const particles = [];
 const floatingParticles = [];
 const texts = [
   { text: "BonBon", size: 150 },
-  { text: "BonBon Session", size: 80 },
+  { text: "BonBon Session", size: 70  },
 ];
 
 class Particle {
